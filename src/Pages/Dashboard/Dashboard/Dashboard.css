@@ -1,0 +1,25 @@
+button.btn.sidebar__btn.w-100 {
+  background-color: #2d5072;
+  color: white;
+  font-family: "Poppins", "sans-serif";
+  padding: 15px 0;
+  font-size: 18px;
+  font-weight: 600;
+  text-align: center;
+  transition: .5s;
+  border-radius: 0;
+  border-bottom: 1px solid rgb(218 218 218 / 39%);
+
+}
+button.btn.sidebar__btn.w-100:hover {
+  background-color: white;
+  color: #2d5072;
+  border: 1px solid #2d5072;
+  transition: .5s;
+}
+.is-active {
+  background-color: yellow !important;
+}
+.css-h4y409-MuiList-root {
+  padding: 0!important;
+}

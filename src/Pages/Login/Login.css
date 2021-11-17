@@ -1,0 +1,10 @@
+.login,
+.image {
+  min-height: 100vh;
+}
+
+.bg-image {
+  background-image: url("https://i.ibb.co/fNSxxMQ/login.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+}

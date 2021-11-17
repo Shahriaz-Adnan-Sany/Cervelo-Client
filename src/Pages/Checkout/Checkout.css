@@ -1,0 +1,19 @@
+.submit__btn {
+  background: #ef720c;
+  padding: 5px 20px;
+  border-radius: 5px;
+  color: white;
+  border: none;
+}
+@media (max-width: 480px) {
+  .checkout__area {
+    display: block !important;
+  }
+}
+
+.checkout-form input {
+  padding: 10px 20px;
+  border-radius: 7px;
+  width: 300px;
+  border: 1px solid #ddd;
+}
