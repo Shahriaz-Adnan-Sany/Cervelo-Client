@@ -18,7 +18,7 @@ const Review = () => {
     e.target.reset();
     e.preventDefault();
 
-    fetch("http://localhost:5000/reviews", {
+    fetch("https://stark-sands-52962.herokuapp.com/reviews", {
       method: "POST",
       headers: {
         "content-type": "application/json",
